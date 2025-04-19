@@ -46,8 +46,7 @@ The movies will be seperated into the following genres (tailored to children):
 - Elsa
 - Moana
 
-2. Action/Adventure
-
+2. Adventure
 - The Lego Movie
 - The Lego Batman
 - How To Train Your Dragon
