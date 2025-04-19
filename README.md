@@ -48,13 +48,12 @@ The movies will be seperated into the following genres (tailored to children):
 
 2. Adventure
 
-- The Lego Movie
+- The Lego Ninjago
 - The Lego Batman
 - How To Train Your Dragon
 - Teenage Mutant Ninja Turtles
 - Kung Fu Panda
 - The Lion King
-- Epic
 - Toy Story
 - Up
 - Alvin and the Chipmunks
@@ -66,7 +65,6 @@ The movies will be seperated into the following genres (tailored to children):
 
 - Monsters Inc.
 - Hotel Transalvania
-- The Monster House
 - Monster High
 - Hocus Pocus
 
@@ -74,11 +72,8 @@ The movies will be seperated into the following genres (tailored to children):
 
 - Nightmare Before Christmas
 - Smurfs
-- The Book of Life
-- Starwars
+- Star Wars
 - Harry Potter
-- Percy Jackson
-- Chronicles of Narnia
 - Encanto
 
 5. Fairytale
@@ -86,13 +81,12 @@ The movies will be seperated into the following genres (tailored to children):
 - Shrek
 - Puss in Boots
 - Peter Pan
-- Pinnochio
+- Pinocchio
 
 6. Sports
 
 - Space Jam
-- Sandlot
-- Little Giants
+- The Sandlot
 - Karate Kid
 
 7. Video Games
@@ -146,3 +140,8 @@ npm run eslint
 ```bash
 npm run build
 ```
+
+## Links for coloring pages
+
+- https://mondaymandala.com/
+- https://www.coloringall.com/coloring-pages/puss-in-boots/puss-dancing-with-softpaws/
