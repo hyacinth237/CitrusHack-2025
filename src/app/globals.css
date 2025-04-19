@@ -1,3 +1,7 @@
 @import "tailwindcss";
 
 @config '../../tailwind.config.ts';
+
+@theme {
+    --font-nunito: "Nunito";
+}
