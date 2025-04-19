@@ -60,6 +60,7 @@ The movies will be seperated into the following genres (tailored to children):
 - Alvin and the Chipmunks
 - Finding Nemo
 - Madagascar
+- Cars
 
 3. Supernatural
 
