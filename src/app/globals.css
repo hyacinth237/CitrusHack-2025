@@ -3,5 +3,5 @@
 @config '../../tailwind.config.ts';
 
 @theme {
-    --font-nunito: "Nunito";
+  --font-nunito: "Nunito";
 }
