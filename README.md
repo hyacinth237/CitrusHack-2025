@@ -42,7 +42,9 @@ The movies will be seperated into the following genres (tailored to children):
 - Ariel
 - Belle
 - Rapunzel
-- Frozen - Elsa, Anna
+- Anna
+- Elsa
+- Moana
 
 2. Action/Adventure
 
