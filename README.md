@@ -24,6 +24,82 @@ The following environment variables are required and must be stored in an `.env`
 N/A
 ```
 
+## Plan
+
+Make a website that allows kids to access coloring pages of their favorite characters from movies.
+The movies will be seperated into the following genres (tailored to children):
+
+1. Princess
+
+- Cinderella
+- Aurora
+- Mulan
+- Jasmine
+- Tiana
+- Snow White
+- Merida
+- Pocahantes
+- Ariel
+- Belle
+- Rapunzel
+- Frozen - Elsa, Anna
+
+2. Action/Adventure
+
+- The Lego Movie
+- The Lego Batman
+- How To Train Your Dragon
+- Teenage Mutant Ninja Turtles
+- Kung Fu Panda
+- The Lion King
+- Epic
+- Toy Story
+- Up
+- Alvin and the Chipmunks
+- Finding Nemo
+- Madagascar
+
+3. Supernatural
+
+- Monsters Inc.
+- Hotel Transalvania
+- The Monster House
+- Monster High
+- Hocus Pocus
+
+4. Fantasy
+
+- Nightmare Before Christmas
+- Smurfs
+- The Book of Life
+- Starwars
+- Harry Potter
+- Percy Jackson
+- Chronicles of Narnia
+- Encanto
+
+5. Fairytale
+
+- Shrek
+- Puss in Boots
+- Peter Pan
+- Pinnochio
+
+6. Sports
+
+- Space Jam
+- Sandlot
+- Little Giants
+- Karate Kid
+
+7. Video Games
+
+- Pokemon
+- Sonic
+- Minecraft
+- Mario Kart
+- Five Nights at Freddy's
+
 ## Commands
 
 ### Dependencies
