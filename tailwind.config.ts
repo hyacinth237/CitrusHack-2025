@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        caveat: [' "Caveat Brush"', 'cursive']
-      }
+        caveat: ['"Caveat Brush"', "cursive"],
+      },
     },
   },
   plugins: [],
