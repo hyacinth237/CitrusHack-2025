@@ -1,8 +1,10 @@
 import Image from "next/image";
+import Header from "../../components/home/header";
 
 const VideoGames = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-blue-400 to-blue-300">
+      <Header />
       <div className="w-screen text-8xl text-black font-caveat">
         Video Games
       </div>

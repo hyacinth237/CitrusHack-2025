@@ -1,8 +1,10 @@
 import Image from "next/image";
+import Header from "../../components/home/header";
 
 const Adventure = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-green-400 to-green-200">
+      <Header />
       <div className="w-screen text-8xl text-black font-caveat">Adventure</div>
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-7">
         Coloring Pages

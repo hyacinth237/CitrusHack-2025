@@ -1,8 +1,10 @@
 import Image from "next/image";
+import Header from "../../components/home/header";
 
 const Supernatural = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-red-700 to-red-500">
+      <Header />
       <div className="w-screen text-8xl text-black font-caveat">
         Supernatural
       </div>

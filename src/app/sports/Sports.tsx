@@ -1,8 +1,10 @@
 import Image from "next/image";
+import Header from "../../components/home/header";
 
 const Sports = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-orange-400 to-orange-200">
+      <Header />
       <div className="w-screen text-8xl text-black font-caveat">Sports</div>
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-10">
         Coloring Pages
