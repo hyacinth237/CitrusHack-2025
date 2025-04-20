@@ -8,42 +8,45 @@ const MovieGenre = () => {
           width={430}
           height={350}
           alt="Princess"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/princess.jpg"
         />
+        <div className="">
+          Princess
+        </div>
         <Image
           width={430}
           height={350}
           alt="Fairytale"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/fairytale.jpg"
         />
         <Image
           width={430}
           height={350}
           alt="Fantasy"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/fantasy.jpg"
         />
         <Image
           width={430}
           height={350}
           alt="Supernatural"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/supernatural.jpg"
         />
         <Image
           width={430}
           height={350}
           alt="Adventure"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/adventure.jpg"
         />
         <Image
           width={430}
           height={350}
           alt="Video Games"
-          className="object-none"
+          className="rounded-lg drop-shadow-lg border-2 border-white"
           src="/imageheaders/video-games.jpg"
         />
       </div>
@@ -51,7 +54,7 @@ const MovieGenre = () => {
         width={430}
         height={350}
         alt="Sports"
-        className="object-none"
+        className="rounded-lg drop-shadow-lg border-2 border-white"
         src="/imageheaders/sports.jpg"
       />
     </div>

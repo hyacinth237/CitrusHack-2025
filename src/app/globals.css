@@ -2,6 +2,4 @@
 
 @config '../../tailwind.config.ts';
 
-@theme {
-  --font-nunito: "Nunito";
-}
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
