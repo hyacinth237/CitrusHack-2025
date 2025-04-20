@@ -2,7 +2,7 @@ import { GoArrowDown } from "react-icons/go";
 
 const Subheader = () => {
   return (
-    <div className="flex flex-col w-screen text-6xl text-white text-center">
+    <div className="flex flex-col w-screen text-6xl text-white font-caveat text-center">
       <div className="flex flex-col w-screen text-3xl text-center justify-center items-center gap-5">
         <div>
           <span className="italic font-extrabold">
