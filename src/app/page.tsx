@@ -1,7 +1,10 @@
+import Header from "../components/home/header";
+
 const Home = () => {
   return (
     <div className="flex h-screen w-screen flex-col items-center justify-center">
-      <div className="flex font-nunito text-blue-600 text-6xl">
+      <Header />
+      <div className="flex font-nunito text-blue-600 text-6xl text-green">
         Color for Kids
       </div>
     </div>
