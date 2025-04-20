@@ -3,8 +3,12 @@ import Image from "next/image";
 const Supernatural = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <div className="w-screen text-6xl text-black">Supernatural</div>
-      <div className="w-screen text-4xl text-gray-700">Coloring Pages</div>
+      <div className="w-screen text-8xl text-black font-caveat">
+        Supernatural
+      </div>
+      <div className="w-screen text-5xl text-gray-700 font-caveat pb-12">
+        Coloring Pages
+      </div>
       <div className="grid grid-cols-2 gap-15">
         <a href="/supernatural/hocus-pocus.webp" target="_blank">
           <Image
@@ -14,7 +18,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/hocus-pocus.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
             Hocus Pocus
           </button>
         </a>
@@ -26,7 +30,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/hotel-transylvania.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
             Hotel Transylvania
           </button>
         </a>
@@ -38,7 +42,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/monster-high.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
             Monster High
           </button>
         </a>
@@ -50,7 +54,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/monsters-inc.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
             Monsters Inc
           </button>
         </a>

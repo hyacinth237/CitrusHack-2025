@@ -3,8 +3,10 @@ import Image from "next/image";
 const Princess = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <div className="w-screen text-6xl text-black">Princess</div>
-      <div className="w-screen text-4xl text-gray-700">Coloring Pages</div>
+      <div className="w-screen text-8xl text-black font-caveat">Princess</div>
+      <div className="w-screen text-5xl text-gray-700 font-caveat">
+        Coloring Pages
+      </div>
       <div className="grid grid-cols-2 gap-15">
         <a href="/princess/anna.webp" target="_blank">
           <Image
@@ -14,7 +16,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/anna.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Anna
           </button>
         </a>
@@ -26,7 +28,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/ariel.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Ariel
           </button>
         </a>
@@ -38,7 +40,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/aurora.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Aurora
           </button>
         </a>
@@ -50,7 +52,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/belle.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Belle
           </button>
         </a>
@@ -62,7 +64,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/cinderella.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Cinderella
           </button>
         </a>
@@ -74,7 +76,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/elsa.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Elsa
           </button>
         </a>
@@ -86,7 +88,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/jasmine.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Jasmine
           </button>
         </a>
@@ -98,7 +100,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/merida.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Merida
           </button>
         </a>
@@ -110,7 +112,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/moana.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Moana
           </button>
         </a>
@@ -122,7 +124,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/mulan.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Mulan
           </button>
         </a>
@@ -134,7 +136,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/pocahontas.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Pocahontas
           </button>
         </a>
@@ -146,7 +148,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/rapunzel.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Rapunzel
           </button>
         </a>
@@ -158,7 +160,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/snow-white.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Snow White
           </button>
         </a>
@@ -170,7 +172,7 @@ const Princess = () => {
             className="object-none"
             src="/princess/tiana.webp"
           />
-          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-indigo-500 hover:bg-pink-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Tiana
           </button>
         </a>
