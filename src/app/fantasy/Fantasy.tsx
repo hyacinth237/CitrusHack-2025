@@ -8,8 +8,8 @@ const Fantasy = () => {
       <div className="grid grid-cols-2 gap-15">
         <a href="/fantasy/encanto.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Encanto"
             className="object-none"
             src="/fantasy/encanto.webp"
@@ -20,8 +20,8 @@ const Fantasy = () => {
         </a>
         <a href="/fantasy/harry-potter.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Harry Potter"
             className="object-none"
             src="/fantasy/harry-potter.webp"
@@ -32,8 +32,8 @@ const Fantasy = () => {
         </a>
         <a href="/fantasy/nightmare-before-christmas.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Nightmare Before Christmas"
             className="object-none"
             src="/fantasy/nightmare-before-christmas.webp"
@@ -44,8 +44,8 @@ const Fantasy = () => {
         </a>
         <a href="/fantasy/smurfs.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Smurfs"
             className="object-none"
             src="/fantasy/smurfs.webp"
@@ -58,8 +58,8 @@ const Fantasy = () => {
       <div className="flex flex-col items-center justify-center text-center">
         <a href="/fantasy/star-wars.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Star Wars"
             className="object-none"
             src="/fantasy/star-wars.webp"

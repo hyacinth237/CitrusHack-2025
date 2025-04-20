@@ -8,8 +8,8 @@ const Adventure = () => {
       <div className="grid grid-cols-2 gap-15">
         <a href="/adventure/alvin-and-the-chipmunks.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Alvin And The Chipmunks"
             className="object-none"
             src="/adventure/alvin-and-the-chipmunks.webp"
@@ -20,8 +20,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/cars.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Cars"
             className="object-none"
             src="/adventure/cars.webp"
@@ -32,8 +32,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/finding-nemo.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Finding Nemo"
             className="object-none"
             src="/adventure/finding-nemo.webp"
@@ -44,8 +44,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/how-to-train-your-dragon.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="How To Train Your Dragon"
             className="object-none"
             src="/adventure/how-to-train-your-dragon.webp"
@@ -56,8 +56,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/kung-fu-pands.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Kung Fu Panda"
             className="object-none"
             src="/adventure/kung-fu-panda.webp"
@@ -68,8 +68,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/madagascar.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Madagascar"
             className="object-none"
             src="/adventure/madagascar.webp"
@@ -80,8 +80,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/teenage-mutant-ninja-turtles.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Teenage Mutant Ninja Turtles"
             className="object-none"
             src="/adventure/teenage-mutant-ninja-turtles.webp"
@@ -92,8 +92,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/the-lego-batman.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="The Lego Batman"
             className="object-none"
             src="/adventure/the-lego-batman.webp"
@@ -104,8 +104,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/the-lego-ninjago.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="The Lego Ninjago"
             className="object-none"
             src="/adventure/the-lego-ninjago.webp"
@@ -116,8 +116,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/the-lion-king.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="The Lion King"
             className="object-none"
             src="/adventure/the-lion-king.webp"
@@ -128,8 +128,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/toy-story.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Toy Story"
             className="object-none"
             src="/adventure/toy-story.webp"
@@ -140,8 +140,8 @@ const Adventure = () => {
         </a>
         <a href="/adventure/up.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Up"
             className="object-none"
             src="/adventure/up.webp"

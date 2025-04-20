@@ -8,8 +8,8 @@ const Supernatural = () => {
       <div className="grid grid-cols-2 gap-15">
         <a href="/supernatural/hocus-pocus.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Hocus Pocus"
             className="object-none"
             src="/supernatural/hocus-pocus.webp"
@@ -20,8 +20,8 @@ const Supernatural = () => {
         </a>
         <a href="/supernatural/hotel-transylvania.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Hotel Transylvania"
             className="object-none"
             src="/supernatural/hotel-transylvania.webp"
@@ -32,8 +32,8 @@ const Supernatural = () => {
         </a>
         <a href="/supernatural/monster-high.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Monster High"
             className="object-none"
             src="/supernatural/monster-high.webp"
@@ -44,8 +44,8 @@ const Supernatural = () => {
         </a>
         <a href="/supernatural/monsters-inc.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Monsters Inc"
             className="object-none"
             src="/supernatural/monsters-inc.webp"

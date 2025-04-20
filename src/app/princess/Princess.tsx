@@ -8,8 +8,8 @@ const Princess = () => {
       <div className="grid grid-cols-2 gap-15">
         <a href="/princess/anna.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Anna"
             className="object-none"
             src="/princess/anna.webp"
@@ -20,8 +20,8 @@ const Princess = () => {
         </a>
         <a href="/princess/ariel.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Ariel"
             className="object-none"
             src="/princess/ariel.webp"
@@ -32,8 +32,8 @@ const Princess = () => {
         </a>
         <a href="/princess/aurora.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Aurora"
             className="object-none"
             src="/princess/aurora.webp"
@@ -44,8 +44,8 @@ const Princess = () => {
         </a>
         <a href="/princess/belle.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Belle"
             className="object-none"
             src="/princess/belle.webp"
@@ -56,8 +56,8 @@ const Princess = () => {
         </a>
         <a href="/princess/cinderella.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Cinderella"
             className="object-none"
             src="/princess/cinderella.webp"
@@ -68,8 +68,8 @@ const Princess = () => {
         </a>
         <a href="/princess/elsa.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Elsa"
             className="object-none"
             src="/princess/elsa.webp"
@@ -80,8 +80,8 @@ const Princess = () => {
         </a>
         <a href="/princess/jasmine.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Jasmine"
             className="object-none"
             src="/princess/jasmine.webp"
@@ -92,8 +92,8 @@ const Princess = () => {
         </a>
         <a href="/princess/merida.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Merida"
             className="object-none"
             src="/princess/merida.webp"
@@ -104,8 +104,8 @@ const Princess = () => {
         </a>
         <a href="/princess/moana.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Moana"
             className="object-none"
             src="/princess/moana.webp"
@@ -116,8 +116,8 @@ const Princess = () => {
         </a>
         <a href="/princess/mulan.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Mulan"
             className="object-none"
             src="/princess/mulan.webp"
@@ -128,8 +128,8 @@ const Princess = () => {
         </a>
         <a href="/princess/pocahontas.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Pocahontas"
             className="object-none"
             src="/princess/pocahontas.webp"
@@ -140,8 +140,8 @@ const Princess = () => {
         </a>
         <a href="/princess/rapunzel.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Rapunzel"
             className="object-none"
             src="/princess/rapunzel.webp"
@@ -152,8 +152,8 @@ const Princess = () => {
         </a>
         <a href="/princess/snow-white.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Snow White"
             className="object-none"
             src="/princess/snow-white.webp"
@@ -164,8 +164,8 @@ const Princess = () => {
         </a>
         <a href="/princess/tiana.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Tiana"
             className="object-none"
             src="/princess/tiana.webp"

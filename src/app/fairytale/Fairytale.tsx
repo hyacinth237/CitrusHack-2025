@@ -8,8 +8,8 @@ const Fairytale = () => {
       <div className="grid grid-cols-2 gap-15">
         <a href="/fairytale/peter-pan.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Peter Pan"
             className="object-none"
             src="/fairytale/peter-pan.webp"
@@ -20,8 +20,8 @@ const Fairytale = () => {
         </a>
         <a href="/fairytale/pinocchio.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Pinocchio"
             className="object-none"
             src="/fairytale/pinocchio.webp"
@@ -32,8 +32,8 @@ const Fairytale = () => {
         </a>
         <a href="/fairytale/puss-in-boots.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Puss In Boots"
             className="object-none"
             src="/fairytale/puss-in-boots.webp"
@@ -44,8 +44,8 @@ const Fairytale = () => {
         </a>
         <a href="/fairytale/shrek.webp" target="_blank">
           <Image
-            width={350}
-            height={500}
+            width={400}
+            height={600}
             alt="Shrek"
             className="object-none"
             src="/fairytale/shrek.webp"
