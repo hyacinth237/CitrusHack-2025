@@ -32,13 +32,15 @@ const MovieGenre = () => {
             src="/imageheaders/fantasy.jpg"
           />
         </Link>
-        <Image
-          width={430}
-          height={350}
-          alt="Supernatural"
-          className="object-none"
-          src="/imageheaders/supernatural.jpg"
-        />
+        <Link href="/supernatural" target="_blank">
+          <Image
+            width={430}
+            height={350}
+            alt="Supernatural"
+            className="object-none"
+            src="/imageheaders/supernatural.jpg"
+          />
+        </Link>
         <Link href="/adventure" target="_blank">
           <Image
             width={430}
