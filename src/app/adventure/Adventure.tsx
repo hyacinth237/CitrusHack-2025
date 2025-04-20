@@ -5,7 +5,7 @@ const Adventure = () => {
     <div className="flex flex-col items-center justify-center text-center">
       <div className="w-screen text-6xl text-black">Adventure</div>
       <div className="w-screen text-4xl text-gray-700">Coloring Pages</div>
-      <div className="grid grid-cols-2 gap-15">
+      <div className="grid grid-cols-2 gap-20">
         <a href="/adventure/alvin-and-the-chipmunks.webp" target="_blank">
           <Image
             width={400}
