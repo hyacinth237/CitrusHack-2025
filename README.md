@@ -1,3 +1,7 @@
+This is a Next.js website using the Next.js Hackpack provided by UCR ACM.
+
+Running the website locally(steps and instructions provided below) displays our website, ColorForKids-- a user-friendly database of coloring pages from popular children's movies, seperated into seven different genres.
+
 # Next.js Hackpack
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -23,79 +27,6 @@ The following environment variables are required and must be stored in an `.env`
 ```env
 N/A
 ```
-
-## Plan
-
-Make a website that allows kids to access coloring pages of their favorite characters from movies.
-The movies will be seperated into the following genres (tailored to children):
-
-1. Princess
-
-- Cinderella
-- Aurora
-- Mulan
-- Jasmine
-- Tiana
-- Snow White
-- Merida
-- Pocahantes
-- Ariel
-- Belle
-- Rapunzel
-- Anna
-- Elsa
-- Moana
-
-2. Adventure
-
-- The Lego Ninjago
-- The Lego Batman
-- How To Train Your Dragon
-- Teenage Mutant Ninja Turtles
-- Kung Fu Panda
-- The Lion King
-- Toy Story
-- Up
-- Alvin and the Chipmunks
-- Finding Nemo
-- Madagascar
-- Cars
-
-3. Supernatural
-
-- Monsters Inc.
-- Hotel Transalvania
-- Monster High
-- Hocus Pocus
-
-4. Fantasy
-
-- Nightmare Before Christmas
-- Smurfs
-- Star Wars
-- Harry Potter
-- Encanto
-
-5. Fairytale
-
-- Shrek
-- Puss in Boots
-- Peter Pan
-- Pinocchio
-
-6. Sports
-
-- Space Jam
-- The Sandlot
-- Karate Kid
-
-7. Video Games
-
-- Pokemon
-- Sonic
-- Minecraft
-- Mario Kart
-- Five Nights at Freddy's
 
 ## Commands
 
