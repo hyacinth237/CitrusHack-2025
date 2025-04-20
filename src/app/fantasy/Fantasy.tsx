@@ -2,12 +2,12 @@ import Image from "next/image";
 
 const Fantasy = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-purple-500 to-purple-300">
       <div className="w-screen text-8xl text-black font-caveat">Fantasy</div>
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-7">
         Coloring Pages
       </div>
-      <div className="grid grid-cols-2 gap-15">
+      <div className="grid grid-cols-2 gap-10">
         <a href="/fantasy/encanto.webp" target="_blank">
           <Image
             width={400}
