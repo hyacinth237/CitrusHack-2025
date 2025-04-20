@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const VideoGames = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-blue-400 to-blue-300">
       <div className="w-screen text-8xl text-black font-caveat">
         Video Games
       </div>

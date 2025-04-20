@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Princess = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-pink-300 to-pink-100">
       <div className="w-screen text-8xl text-black font-caveat">Princess</div>
       <div className="w-screen text-5xl text-gray-700 font-caveat">
         Coloring Pages

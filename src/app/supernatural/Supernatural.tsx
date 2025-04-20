@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Supernatural = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-red-600 to-red-400">
       <div className="w-screen text-8xl text-black font-caveat">
         Supernatural
       </div>
