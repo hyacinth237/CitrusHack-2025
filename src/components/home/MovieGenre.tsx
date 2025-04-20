@@ -26,7 +26,9 @@ const MovieGenre = () => {
               className="rounded-lg drop-shadow-lg border-2 border-white"
               src="/imageheaders/fairytale.jpg"
             />
-            <div className="flex font-caveat text-5xl text-white">Fairytale</div>
+            <div className="flex font-caveat text-5xl text-white">
+              Fairytale
+            </div>
           </Link>
         </div>
         <div className="flex flex-col items-center gap-5">
@@ -51,7 +53,7 @@ const MovieGenre = () => {
               src="/imageheaders/supernatural.jpg"
             />
             <div className="flex font-caveat text-5xl text-white">
-            Supernatural
+              Supernatural
             </div>
           </Link>
         </div>
@@ -64,7 +66,9 @@ const MovieGenre = () => {
               className="rounded-lg drop-shadow-lg border-2 border-white"
               src="/imageheaders/adventure.jpg"
             />
-            <div className="flex font-caveat text-5xl text-white">Adventure</div>
+            <div className="flex font-caveat text-5xl text-white">
+              Adventure
+            </div>
           </Link>
         </div>
         <div className="flex flex-col items-center gap-5">
