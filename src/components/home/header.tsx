@@ -1,5 +1,9 @@
 const Header = () => {
-  return <div></div>;
+  return (
+    <div className="flex flex-col w-screen text-6xl text-white bg-green-900 text-center tracking-wider">
+      ColorForKids
+    </div>
+  );
 };
 
 export default Header;
