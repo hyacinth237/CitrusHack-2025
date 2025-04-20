@@ -15,8 +15,8 @@ const Subheader = () => {
           Look no further!
         </div>
         <div>
-          With ColorForKids, simply click on the genre of your choice and find
-          your perfect coloring sheet.
+          With ColorForKids, simply <span className="italic">click</span> on the
+          genre of your choice and find your perfect coloring sheet.
         </div>
         <div>Scroll down to discover more!</div>
         <GoArrowDown className="flex text-9xl animate-bounce pt-4" />
