@@ -1,6 +1,6 @@
 import Header from "../components/home/header";
 import MovieGenre from "../components/home/MovieGenre";
-import Subheader from "../components/home/Subheader"
+import Subheader from "../components/home/Subheader";
 
 const Home = () => {
   return (
