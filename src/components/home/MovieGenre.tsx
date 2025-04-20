@@ -14,13 +14,15 @@ const MovieGenre = () => {
             src="/imageheaders/princess.jpg"
           />
         </Link>
-        <Image
-          width={430}
-          height={350}
-          alt="Fairytale"
-          className="object-none"
-          src="/imageheaders/fairytale.jpg"
-        />
+        <Link href="/fairytale" target="_blank">
+          <Image
+            width={430}
+            height={350}
+            alt="Fairytale"
+            className="object-none"
+            src="/imageheaders/fairytale.jpg"
+          />
+        </Link>
         <Link href="/fantasy" target="_blank">
           <Image
             width={430}
