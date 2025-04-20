@@ -1,3 +1,4 @@
+import Footer from "../components/home/Footer";
 import Header from "../components/home/header";
 import MovieGenre from "../components/home/MovieGenre";
 import Subheader from "../components/home/Subheader";
@@ -11,6 +12,9 @@ const Home = () => {
       <div className="flex flex-col bg-gradient-to-b from-green-900 to-blue-300">
         <Subheader />
         <MovieGenre />
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );
