@@ -1,6 +1,6 @@
 This is a Next.js website using the Next.js Hackpack provided by UCR ACM.
 
-Running the website locally(steps and instructions provided below) displays our website, ColorForKids-- a user-friendly database of coloring pages from popular children's movies, seperated into seven different genres.
+Running the website locally(steps and instructions provided below) displays our website, ColorForKids-- a user-friendly database of coloring pages from popular children's movies, separated into seven different genres.
 
 # Next.js Hackpack
 
