@@ -2,14 +2,14 @@ import Image from "next/image";
 
 const Supernatural = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-red-600 to-red-400">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-red-700 to-red-500">
       <div className="w-screen text-8xl text-black font-caveat">
         Supernatural
       </div>
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-12">
         Coloring Pages
       </div>
-      <div className="grid grid-cols-2 gap-15">
+      <div className="grid grid-cols-2 gap-15 pb-10">
         <a href="/supernatural/hocus-pocus.webp" target="_blank">
           <Image
             width={400}
@@ -18,7 +18,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/hocus-pocus.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-amber-950 hover:bg-red-800 text-4xl text-white font-caveat py-2 px-4 rounded">
             Hocus Pocus
           </button>
         </a>
@@ -30,7 +30,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/hotel-transylvania.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-amber-950 hover:bg-red-800 text-4xl text-white font-caveat py-2 px-4 rounded">
             Hotel Transylvania
           </button>
         </a>
@@ -42,7 +42,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/monster-high.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-amber-950 hover:bg-red-800 text-4xl text-white font-caveat py-2 px-4 rounded">
             Monster High
           </button>
         </a>
@@ -54,7 +54,7 @@ const Supernatural = () => {
             className="object-none"
             src="/supernatural/monsters-inc.webp"
           />
-          <button className="bg-amber-700 hover:bg-rose-300 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-amber-950 hover:bg-red-800 text-4xl text-white font-caveat py-2 px-4 rounded">
             Monsters Inc
           </button>
         </a>

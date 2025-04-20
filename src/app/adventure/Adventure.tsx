@@ -2,12 +2,12 @@ import Image from "next/image";
 
 const Adventure = () => {
   return (
-    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-green-500 to-green-200">
+    <div className="flex flex-col items-center justify-center text-center bg-gradient-to-b from-green-400 to-green-200">
       <div className="w-screen text-8xl text-black font-caveat">Adventure</div>
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-7">
         Coloring Pages
       </div>
-      <div className="grid grid-cols-2 gap-15">
+      <div className="grid grid-cols-2 gap-15 pb-10">
         <a href="/adventure/alvin-and-the-chipmunks.webp" target="_blank">
           <Image
             width={400}
@@ -16,7 +16,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/alvin-and-the-chipmunks.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Alvin And The Chipmunks
           </button>
         </a>
@@ -28,7 +28,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/cars.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Cars
           </button>
         </a>
@@ -40,7 +40,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/finding-nemo.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Finding Nemo
           </button>
         </a>
@@ -52,7 +52,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/how-to-train-your-dragon.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             How To Train Your Dragon
           </button>
         </a>
@@ -64,7 +64,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/kung-fu-panda.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Kung Fu Panda
           </button>
         </a>
@@ -76,7 +76,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/madagascar.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Madagascar
           </button>
         </a>
@@ -88,7 +88,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/teenage-mutant-ninja-turtles.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Teenage Mutant Ninja Turtles
           </button>
         </a>
@@ -100,7 +100,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/the-lego-batman.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             The Lego Batman
           </button>
         </a>
@@ -112,7 +112,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/the-lego-ninjago.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             The Lego Ninjago
           </button>
         </a>
@@ -124,7 +124,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/the-lion-king.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             The Lion King
           </button>
         </a>
@@ -136,7 +136,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/toy-story.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Toy Story
           </button>
         </a>
@@ -148,7 +148,7 @@ const Adventure = () => {
             className="object-none"
             src="/adventure/up.webp"
           />
-          <button className="bg-cyan-800 hover:bg-emerald-600 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-green-900 hover:bg-green-700 text-4xl text-white font-caveat py-2 px-4 rounded">
             Up
           </button>
         </a>

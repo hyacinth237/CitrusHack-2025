@@ -7,7 +7,7 @@ const Fairytale = () => {
       <div className="w-screen text-5xl text-gray-700 font-caveat pb-7">
         Coloring Pages
       </div>
-      <div className="grid grid-cols-2 gap-15">
+      <div className="grid grid-cols-2 gap-15 pb-10">
         <a href="/fairytale/peter-pan.webp" target="_blank">
           <Image
             width={400}
@@ -16,7 +16,7 @@ const Fairytale = () => {
             className="object-none"
             src="/fairytale/peter-pan.webp"
           />
-          <button className="bg-orange-600 hover:bg-pink-500 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-yellow-600 hover:bg-amber-500 text-4xl text-white font-caveat py-2 px-4 rounded">
             Peter Pan
           </button>
         </a>
@@ -28,7 +28,7 @@ const Fairytale = () => {
             className="object-none"
             src="/fairytale/pinocchio.webp"
           />
-          <button className="bg-orange-600 hover:bg-pink-500 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-yellow-600 hover:bg-amber-500 text-4xl text-white font-caveat py-2 px-4 rounded">
             Pinocchio
           </button>
         </a>
@@ -40,7 +40,7 @@ const Fairytale = () => {
             className="object-none"
             src="/fairytale/puss-in-boots.webp"
           />
-          <button className="bg-orange-600 hover:bg-pink-500 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-yellow-600 hover:bg-amber-500 text-4xl text-white font-caveat py-2 px-4 rounded">
             Puss In Boots
           </button>
         </a>
@@ -52,7 +52,7 @@ const Fairytale = () => {
             className="object-none"
             src="/fairytale/shrek.webp"
           />
-          <button className="bg-orange-600 hover:bg-pink-500 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-yellow-600 hover:bg-amber-500 text-4xl text-white font-caveat py-2 px-4 rounded">
             Shrek
           </button>
         </a>
