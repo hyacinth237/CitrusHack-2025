@@ -3,8 +3,8 @@ import Image from "next/image";
 const VideoGames = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <div className="w-screen text-6xl text-black">Video Games</div>
-      <div className="w-screen text-4xl text-gray-700">Coloring Pages</div>
+      <div className="w-screen text-8xl text-black font-caveat">Video Games</div>
+      <div className="w-screen text-5xl text-gray-700 font-caveat pb-8">Coloring Pages</div>
       <div className="grid grid-cols-2 gap-15">
         <a href="/video-games/five-nights-at-freddys.webp" target="_blank">
           <Image
@@ -14,7 +14,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/five-nights-at-freddys.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
             Five Nights at Freddy's
           </button>
         </a>
@@ -26,7 +26,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/mario-kart.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
             Mario Kart
           </button>
         </a>
@@ -38,7 +38,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/minecraft.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
             Minecraft
           </button>
         </a>
@@ -50,12 +50,12 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/pokemon.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
             Pokemon
           </button>
         </a>
       </div>
-      <div className="flex flex-col items-center justify-center text-center">
+      <div className="flex flex-col items-center justify-center text-center pt-14">
         <a href="/video-games/sonic.webp" target="_blank">
           <Image
             width={400}
@@ -64,7 +64,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/sonic.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white py-2 px-4 rounded">
+          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
             Sonic
           </button>
         </a>
