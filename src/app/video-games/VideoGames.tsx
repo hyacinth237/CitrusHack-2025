@@ -18,7 +18,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/five-nights-at-freddys.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-blue-900 hover:bg-blue-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Five Nights at Freddy's
           </button>
         </a>
@@ -30,7 +30,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/mario-kart.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-blue-900 hover:bg-blue-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Mario Kart
           </button>
         </a>
@@ -42,7 +42,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/minecraft.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-blue-900 hover:bg-blue-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Minecraft
           </button>
         </a>
@@ -54,12 +54,12 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/pokemon.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-blue-900 hover:bg-blue-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Pokemon
           </button>
         </a>
       </div>
-      <div className="flex flex-col items-center justify-center text-center pt-14">
+      <div className="flex flex-col items-center justify-center text-center pb-10 pt-14">
         <a href="/video-games/sonic.webp" target="_blank">
           <Image
             width={400}
@@ -68,7 +68,7 @@ const VideoGames = () => {
             className="object-none"
             src="/video-games/sonic.webp"
           />
-          <button className="bg-purple-800 hover:bg-blue-900 text-4xl text-white font-caveat py-2 px-4 rounded">
+          <button className="bg-blue-900 hover:bg-blue-600 text-4xl text-white font-caveat py-2 px-4 rounded">
             Sonic
           </button>
         </a>
