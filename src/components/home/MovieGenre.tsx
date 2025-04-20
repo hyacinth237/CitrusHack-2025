@@ -60,13 +60,15 @@ const MovieGenre = () => {
           />
         </Link>
       </div>
-      <Image
-        width={430}
-        height={350}
-        alt="Sports"
-        className="object-none"
-        src="/imageheaders/sports.jpg"
-      />
+      <Link href="/sports" target="_blank">
+        <Image
+          width={430}
+          height={350}
+          alt="Sports"
+          className="object-none"
+          src="/imageheaders/sports.jpg"
+        />
+      </Link>
     </div>
   );
 };
