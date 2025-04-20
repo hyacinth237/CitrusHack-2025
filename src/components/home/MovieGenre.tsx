@@ -1,16 +1,19 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const MovieGenre = () => {
   return (
     <div className="flex flex-col gap-20 items-center justify-center">
       <div className="grid grid-cols-2 gap-20">
-        <Image
-          width={430}
-          height={350}
-          alt="Princess"
-          className="object-none"
-          src="/imageheaders/princess.jpg"
-        />
+        <Link href="/princess" target="_blank">
+          <Image
+            width={430}
+            height={350}
+            alt="Princess"
+            className="object-none"
+            src="/imageheaders/princess.jpg"
+          />
+        </Link>
         <Image
           width={430}
           height={350}
