@@ -2,18 +2,58 @@ import Image from "next/image";
 
 const MovieGenre = () => {
   return (
-    <div className="flex columns-2 justify-center">
-      <Image alt="Princess" className="object-none" src="/princess.jpg" />
-      <Image alt="Fairytale" className="object-none" src="/fairytale.jpg" />
-      <Image alt="Fantasy" className="object-none" src="/fantasy.jpg" />
+    <div className="flex flex-col gap-20 items-center justify-center">
+      <div className="grid grid-cols-2 gap-20">
+        <Image
+          width={430}
+          height={350}
+          alt="Princess"
+          className="object-none"
+          src="/imageheaders/princess.jpg"
+        />
+        <Image
+          width={430}
+          height={350}
+          alt="Fairytale"
+          className="object-none"
+          src="/imageheaders/fairytale.jpg"
+        />
+        <Image
+          width={430}
+          height={350}
+          alt="Fantasy"
+          className="object-none"
+          src="/imageheaders/fantasy.jpg"
+        />
+        <Image
+          width={430}
+          height={350}
+          alt="Supernatural"
+          className="object-none"
+          src="/imageheaders/supernatural.jpg"
+        />
+        <Image
+          width={430}
+          height={350}
+          alt="Adventure"
+          className="object-none"
+          src="/imageheaders/adventure.jpg"
+        />
+        <Image
+          width={430}
+          height={350}
+          alt="Video Games"
+          className="object-none"
+          src="/imageheaders/video-games.jpg"
+        />
+      </div>
       <Image
-        alt="Supernatural"
+        width={430}
+        height={350}
+        alt="Sports"
         className="object-none"
-        src="/supernatural.jpg"
+        src="/imageheaders/sports.jpg"
       />
-      <Image alt="Adventure" className="object-none" src="/adventure.jpg" />
-      <Image alt="Video Games" className="object-none" src="/video-games.jpg" />
-      <Image alt="Sports" className="object-none" src="/sports.jpg" />
     </div>
   );
 };
