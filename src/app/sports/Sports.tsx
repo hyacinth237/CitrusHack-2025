@@ -4,7 +4,9 @@ const Sports = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
       <div className="w-screen text-8xl text-black font-caveat">Sports</div>
-      <div className="w-screen text-5xl text-gray-700 font-caveat pb-10">Coloring Pages</div>
+      <div className="w-screen text-5xl text-gray-700 font-caveat pb-10">
+        Coloring Pages
+      </div>
       <div className="grid grid-cols-2 gap-15">
         <a href="/sports/space-jam.webp" target="_blank">
           <Image

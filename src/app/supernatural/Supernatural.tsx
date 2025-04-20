@@ -3,8 +3,12 @@ import Image from "next/image";
 const Supernatural = () => {
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <div className="w-screen text-8xl text-black font-caveat">Supernatural</div>
-      <div className="w-screen text-5xl text-gray-700 font-caveat pb-12">Coloring Pages</div>
+      <div className="w-screen text-8xl text-black font-caveat">
+        Supernatural
+      </div>
+      <div className="w-screen text-5xl text-gray-700 font-caveat pb-12">
+        Coloring Pages
+      </div>
       <div className="grid grid-cols-2 gap-15">
         <a href="/supernatural/hocus-pocus.webp" target="_blank">
           <Image
